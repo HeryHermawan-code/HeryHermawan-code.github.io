@@ -25,7 +25,7 @@
 
 ### 👑 PRESIDENT
 **President Dumai 3120**
-Bagansiapiapi, Riau, Indonesia
+Dumai, Riau, Indonesia
 
 ### 📱 CONTACT
 WhatsApp: +62 823-8663-3303
@@ -35,4 +35,4 @@ Vercel: grm-metaverse-v28-enterprise
 
 ---
 PT GRM © 2026 | V29.1 Enterprise Edition | Verified
-02:23 WIB - Bagansiapiapi
+02:23 WIB - Dumai
