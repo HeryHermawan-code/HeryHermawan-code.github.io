@@ -15,7 +15,7 @@
 
 🇮🇩 🇬🇧 🇨🇳 🇯🇵 🇰🇷 🇸🇦 🇷🇺 🇪🇸 🇫🇷 🇩🇪 🇮🇳 🇹🇭
 
-### 🌍 GLOBAL HQ
+### 🌍 GLOBAL HERY
 - Riau | Dumai | Singapore | Dubai
 - Green Energy | Palm Oil | Carbon Credits
 - Blockchain | AI Trading
