@@ -1,4 +1,4 @@
-# PT GREEN RESOURCES METAVERSE V29.0 - $1.2M SUCCESS
+# PT GREEN RESOURCES METAVERSE V29.1 - $1.2M SUCCESS
 
 ## 🚀 LIVE DASHBOARD
 **https://grm-metaverse-v28-enterprise.vercel.app**
@@ -26,12 +26,13 @@
 ### 👑 PRESIDENT
 **President Dumai 3120**
 Bagansiapiapi, Riau, Indonesia
-01:30 WIB
 
 ### 📱 CONTACT
-WhatsApp: +62 812-6000-3120
+WhatsApp: +62 823-8663-3303
+Link WA: https://wa.me/6282386633303
 GitHub: HeryHermawan-code
 Vercel: grm-metaverse-v28-enterprise
 
 ---
-PT GRM © 2026 | V29.0 Enterprise Edition | Verified
+PT GRM © 2026 | V29.1 Enterprise Edition | Verified
+02:23 WIB - Bagansiapiapi
